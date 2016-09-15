@@ -1,3 +1,12 @@
+# CatBook
+
+Cat has many hobbies
++ name, weight, temperament, fluffy (boolean), breed
+Hobbies have many cats
++ name, description
+
+A Cat can learn a Hobby
+
 # README
 
 This README would normally document whatever steps are necessary to get the
